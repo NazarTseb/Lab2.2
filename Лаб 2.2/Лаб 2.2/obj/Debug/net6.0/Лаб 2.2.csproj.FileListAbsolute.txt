@@ -1,0 +1,17 @@
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\bin\Debug\net6.0\Лаб 2.2.exe
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\bin\Debug\net6.0\Лаб 2.2.deps.json
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\bin\Debug\net6.0\Лаб 2.2.runtimeconfig.json
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\bin\Debug\net6.0\Лаб 2.2.dll
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\bin\Debug\net6.0\Лаб 2.2.pdb
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\obj\Debug\net6.0\Лаб 2.2.csproj.AssemblyReference.cache
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\obj\Debug\net6.0\Лаб 2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\obj\Debug\net6.0\Лаб 2.2.AssemblyInfoInputs.cache
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\obj\Debug\net6.0\Лаб 2.2.AssemblyInfo.cs
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\obj\Debug\net6.0\Лаб 2.2.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\obj\Debug\net6.0\Лаб 2.2.csproj.CopyComplete
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\obj\Debug\net6.0\Лаб 2.2.dll
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\obj\Debug\net6.0\refint\Лаб 2.2.dll
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\obj\Debug\net6.0\Лаб 2.2.pdb
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\obj\Debug\net6.0\Лаб 2.2.genruntimeconfig.cache
+C:\Users\Nazar\source\repos\Лаб 2.2\Лаб 2.2\obj\Debug\net6.0\ref\Лаб 2.2.dll
